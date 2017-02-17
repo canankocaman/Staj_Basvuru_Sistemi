@@ -1,0 +1,36 @@
+.clear {
+  clear: both;
+}
+
+body {
+  background-image: url("images/white_wall_hash.png");
+  background-repeat: repeat;
+}
+
+.listem {
+	text-align: center;
+}
+
+.listem ul {
+  list-style: none;
+  display: inline-block;
+}
+
+.listem ul li {
+  float: left;
+  margin-left: auto;
+  border: 1px;
+}
+
+.listem ul li a{
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  color: #ff4d4d;
+}
+
+
+.listem ul li :hover{
+  color: #e60000;
+  text-shadow: 1px 1px;
+}

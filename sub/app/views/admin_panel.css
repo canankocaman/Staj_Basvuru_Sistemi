@@ -1,0 +1,31 @@
+.clear{
+	clear: both;
+}
+
+body{
+	background-image: url("images/white_wall_hash.png");
+}
+
+.form {
+	padding: 30px 30px 30px 30px;
+	position: fixed;
+	margin: 100px 300px 100px 450px;
+	background-color: #f9acac;
+}
+
+.form .kul{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.form .pass{
+	margin-top: 10px; 
+}
+
+.form .btn{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
