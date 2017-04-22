@@ -1,1 +1,1 @@
-PHP ile oluşturulmuş Staj Değerlendirme Sistemi
+PHP ile oluşturulmuş Staj Değerlendirme Sistemi.
